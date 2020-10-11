@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660378369291",
+    "firebase_url": "https://loja-virtual-ferreira-34084.firebaseio.com",
+    "project_id": "loja-virtual-ferreira-34084",
+    "storage_bucket": "loja-virtual-ferreira-34084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660378369291:android:8f3696367eb8353c99f60e",
+        "android_client_info": {
+          "package_name": "br.com.ferreira.loja_virtual_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660378369291-lgn13eob9cedv1rv23mfc216gdcugk67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHU_STHVshH9FPTpYDmBxPrIUu9hOl6X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660378369291-lgn13eob9cedv1rv23mfc216gdcugk67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
