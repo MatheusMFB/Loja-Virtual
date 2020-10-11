@@ -1,10 +1,9 @@
 # loja_virtual
 Loja virtual Flutter+Firebase
 
+## Getting Started
 
 A new Flutter project.
-
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
