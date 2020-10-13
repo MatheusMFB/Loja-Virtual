@@ -34,7 +34,11 @@ class UserManager extends ChangeNotifier {
     try {
       final AuthResult result = await auth.createUserWithEmailAndPassword(
           email: user.email, password: user.password);
-      this.user = result.user;
+
+      user.id = result.user.uid;
+
+      await user.saveData();
+
       onSucess();
     } on PlatformException catch (e) {
       onFail(getErrorString(e.code));
